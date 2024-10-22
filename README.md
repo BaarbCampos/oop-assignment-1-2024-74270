@@ -6,3 +6,7 @@ Interfaces define method signatures and can't have a state. A class can have mul
 
 Abstract classes and interfaces are used when a group of related classes want to use some common code.
 
+Conclusion
+
+In C#, the main difference between an abstract class and interface is that they can be used in many different ways. Since abstract creates are more about code sharing, they are usually used for classes that are close to each other. Interfaces can be applied to many different classes. Without this difference, - would not have been possible to design something as clean, modular, and scalable applications.
+
